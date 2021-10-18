@@ -1,4 +1,8 @@
-# cloud_computing MicroTarea 2
+# Cloud Computing MicroTarea 2
+
+## Integrantes:
+- Joe Acuña
+- Bryan Díaz
 
 Antes de generar la base de datos se creó un nuevo KEYSPACE con el siguiente comando:
 ```
